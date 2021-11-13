@@ -1,0 +1,9 @@
+[submodule "pure_java_rest_api"]
+	path = pure_java_rest_api
+	url = https://github.com/rnyPlanet/pure_java_rest_api.git
+[submodule "servlet_java_rest_api"]
+	path = servlet_java_rest_api
+	url = https://github.com/rnyPlanet/servlet_java_rest_api.git
+[submodule "spring_mvc_rest"]
+	path = spring_mvc_rest
+	url = https://github.com/rnyPlanet/spring_mvc_rest.git
